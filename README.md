@@ -20,14 +20,12 @@ It filters the incoming json data request and return few fields as per the given
 ### Install server dependencies
 
 ```bash
-cd server
 npm install
 ```
 
 ## Run server 🏁
 
 ```bash
-cd server
 npm start
 ```
 
