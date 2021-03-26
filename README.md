@@ -33,7 +33,6 @@ npm start
 
 ## Server-side
 
-    server
     ├── controllers           # Contains logic for handling the json request and response
     ├── models                # Contains model for http-error
     ├── routes                # Contains route for the controller
